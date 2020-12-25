@@ -6,3 +6,5 @@ git clone https://github.com/fastrizwaan/VocabularyBuilder.git
 cd VocabularyBuilder/
 python VocabularyBuilder.py 
 ```
+
+(https://github.com/fastrizwaan/VocabularyBuilder/blob/main/screenshot.png)
