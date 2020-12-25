@@ -122,7 +122,7 @@ class MainWindow(Gtk.ApplicationWindow):
         #Open file and load Data#
         #-- File opening process --#
         try:
-            fileName = "/home/rizvan/Program/Vocabulary_Builder/vocab_data.tsv"
+            fileName = "./vocab_data.tsv"
             file = codecs.open(fileName, "rb", encoding='UTF-8')
         except IndexError:
             print("Error: Please provide filename as argument")
