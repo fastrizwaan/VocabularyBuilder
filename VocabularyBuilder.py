@@ -43,8 +43,8 @@ class MainWindow(Gtk.ApplicationWindow):
         
 #        self.vbox1.pack_start(self.learningLabel, False, False, 0)
 
-        #self.show_learning_labels()
-        self.show_quiz_labels() #start with quiz
+        self.show_learning_labels()
+        #self.show_quiz_labels() #start with quiz
         
         
 
